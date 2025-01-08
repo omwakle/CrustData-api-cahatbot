@@ -2,7 +2,7 @@ import streamlit as st
 from app import API_Chatbot
 import time
 from typing import List, Dict
-import logging
+import loggin
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
